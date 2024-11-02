@@ -1,0 +1,1 @@
+You can run the .ipynb file in Jupiter, Kaggle, or Google Colab. Then, run the streamline file in the pyCharm to view it in the dashboard. There is also a CSV file, which you have to download and place in a specified folder.
